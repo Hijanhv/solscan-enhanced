@@ -3,7 +3,7 @@ A smarter, sharper remake of Solscan — rebuilt from scratch with modern UX, wa
 
 # 🔍 Where Solscan Falls Short — and What I'm Fixing
 
-As someone actively building in the Solana ecosystem, I often found **Solscan** useful — but also frustrating. So for the **Level Up: Vibe Coding Hackathon**, I decided to rebuild it from scratch and make it **smarter, cleaner, and more insightful**.
+
 
 ---
 
